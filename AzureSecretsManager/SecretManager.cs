@@ -1,7 +1,4 @@
-﻿using Microsoft.AspNetCore.Builder;
-using Microsoft.Extensions.Configuration;
-
-namespace AzureSecretsManager;
+﻿namespace AzureSecretsManager;
 
 public static class SecretManager
 {
