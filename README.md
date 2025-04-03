@@ -1,0 +1,2 @@
+# AzureApp
+azure located application
