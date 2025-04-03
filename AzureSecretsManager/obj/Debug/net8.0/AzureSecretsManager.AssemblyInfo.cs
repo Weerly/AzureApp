@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AzureSecretsManager")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+58339ef2d281b53570405082f9174c1c5057a8cb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6b45e95f30bdf085fd6933b347ed123f9aa15043")]
 [assembly: System.Reflection.AssemblyProductAttribute("AzureSecretsManager")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AzureSecretsManager")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

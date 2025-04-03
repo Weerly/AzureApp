@@ -421,7 +421,10 @@
         },
         "runtime": {
           "bin/placeholder/AzureSecretsManager.dll": {}
-        }
+        },
+        "frameworkReferences": [
+          "Microsoft.AspNetCore.App"
+        ]
       }
     }
   },
