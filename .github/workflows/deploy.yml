@@ -25,8 +25,9 @@ jobs:
           host: ${{ secrets.VM_HOST }}
           username: ${{ secrets.VM_USERNAME }}
           key: ${{ secrets.VM_SSH_KEY }}
-          source: "./publish/*"
-          target: "/home/user/myapp"
+          source: "publish"
+          target: "/home/user/myapp",
+          debug: true
 
       - name: Restart .NET App via SSH
         uses: appleboy/ssh-action@master
