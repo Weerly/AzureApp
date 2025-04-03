@@ -1,2 +1,2 @@
 # AzureApp
-azure located application
+Azure .NET 8 API located application
