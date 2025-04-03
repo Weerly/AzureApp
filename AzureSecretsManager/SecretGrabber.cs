@@ -14,7 +14,7 @@ public static class SecretGrabber
         return new DefaultAzureCredential(new DefaultAzureCredentialOptions
         {
             ExcludeEnvironmentCredential = true,
-            ExcludeManagedIdentityCredential = true,
+            ExcludeManagedIdentityCredential = false,
             ExcludeSharedTokenCacheCredential = true,
             ExcludeInteractiveBrowserCredential = true,
             ExcludeVisualStudioCredential = true,
