@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication1", "WebApplication1\WebApplication1.csproj", "{DB93F920-8BEB-49F2-BBFA-328629EB045F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureStorageWrapper", "AzureStorageWrapper\AzureStorageWrapper.csproj", "{8319713A-EA7F-42A0-BB52-62E5ECB76BA4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureSecretsManager", "AzureSecretsManager\AzureSecretsManager.csproj", "{5CBF4A85-F2DF-41B1-B7B7-27AA0BEA81AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB93F920-8BEB-49F2-BBFA-328629EB045F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB93F920-8BEB-49F2-BBFA-328629EB045F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB93F920-8BEB-49F2-BBFA-328629EB045F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB93F920-8BEB-49F2-BBFA-328629EB045F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8319713A-EA7F-42A0-BB52-62E5ECB76BA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8319713A-EA7F-42A0-BB52-62E5ECB76BA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8319713A-EA7F-42A0-BB52-62E5ECB76BA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8319713A-EA7F-42A0-BB52-62E5ECB76BA4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5CBF4A85-F2DF-41B1-B7B7-27AA0BEA81AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CBF4A85-F2DF-41B1-B7B7-27AA0BEA81AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CBF4A85-F2DF-41B1-B7B7-27AA0BEA81AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CBF4A85-F2DF-41B1-B7B7-27AA0BEA81AA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
