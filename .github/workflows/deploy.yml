@@ -26,7 +26,7 @@ jobs:
           username: ${{ secrets.VM_USERNAME }}
           key: ${{ secrets.VM_SSH_KEY }}
           source: "publish"
-          target: "/home/user/myapp"
+          target: "/tmp/myapp"
           debug: true
 
       - name: Restart .NET App via SSH
