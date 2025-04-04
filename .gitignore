@@ -1,4 +1,7 @@
+/.idea/
 /WebApplication1/bin/
+/WebApplication1/obj/
 /AzureStorageWrapper/bin/
 /AzureSecretsManager/bin/
 /AzureSecretsManager/obj/
+/WebApplication1.sln.DotSettings.user
